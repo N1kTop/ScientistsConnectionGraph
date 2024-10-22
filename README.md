@@ -1,8 +1,10 @@
 **---Scientist Graph Visualization---**
+
 This project visualizes a graph of scientists, where the names of scientists are represented as nodes, and connections between them are created if they have lived during the same time period. The visualization provides a unique way to explore relationships between scientists based on their lifetimes.
 
 
 **Project Overview**
+
 The primary goal of this project is to visualize connections between scientists based on historical data, using graph theory. The project utilises Python libraries to create and display an interactive graph where:
 
 Nodes represent individual scientists.

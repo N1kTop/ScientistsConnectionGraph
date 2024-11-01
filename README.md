@@ -48,15 +48,19 @@ This data is processed to create a graph where the nodes are connected if their 
 If you want to use a different dataset, change the file name in the main function when calling loadData(filename).
 
 
+**Results**
+
+The resultant graph consists from one big interconnected family. However there are a few outliers, such as Thales of Miletus, who was a philosopher, living in around 600 BC.
+From this small experiment we can tell that most of the well known researchers who majorly contributed towards modern science have lived in a reletively close time period, mostly around years 1700-2000.
+![graph1](https://github.com/user-attachments/assets/0bb042bc-1419-43c5-8143-56e5b19f8739)
+![main](https://github.com/user-attachments/assets/d1f06405-75a6-4e47-baf4-61d0c3d25aba)
+
+
 **Future Improvements**
 
 Expand Dataset: Add more scientists and refine the dataset for more comprehensive graphs.
+Different Dataset: This program can work with other datasets as long as the CSV file format stays the same. 
 Enhance Visualization: Improve the visual layout by using libraries such as jaal or plotly.
-
-
-**Results**
-
-![graph1](https://github.com/user-attachments/assets/0bb042bc-1419-43c5-8143-56e5b19f8739)
 
 
 **Note**

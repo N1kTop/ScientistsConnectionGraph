@@ -56,6 +56,7 @@ Enhance Visualization: Improve the visual layout by using libraries such as jaal
 
 **Results**
 
+![graph1](https://github.com/user-attachments/assets/0bb042bc-1419-43c5-8143-56e5b19f8739)
 
 
 **Note**

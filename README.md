@@ -1,4 +1,4 @@
-**---Scientist Graph Visualization---**
+# Scientist Graph Visualization
 
 This project visualizes a graph of scientists, where the names of scientists are represented as nodes, and connections between them are created if they have lived during the same time period. The visualization provides a unique way to explore relationships between scientists based on their lifetimes.
 

@@ -56,7 +56,7 @@ Enhance Visualization: Improve the visual layout by using libraries such as jaal
 
 **Results**
 
-![alt text]([http://url/to/img.png](https://www.flickr.com/photos/201723622@N02/54110300958/in/dateposted-public/))
+
 
 **Note**
 
